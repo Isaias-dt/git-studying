@@ -1,3 +1,3 @@
 # Star Wars
 
-![alt](img/luke-skywalker.png)
+![alt](img/yoda.png = 340x520)
