@@ -2,3 +2,4 @@ Legolas
 Gandalf
 Sauron
 Aragorn
+Gollum
