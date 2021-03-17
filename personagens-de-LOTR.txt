@@ -4,3 +4,6 @@ Sauron
 Aragorn
 Balrog
 Gollum
+
+Thorin
+Bilbo Baggins
