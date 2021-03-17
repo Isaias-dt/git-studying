@@ -3,3 +3,4 @@ Gandalf
 Sauron
 Aragorn
 Balrog
+Gollum
