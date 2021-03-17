@@ -1,9 +1,13 @@
+Senhor dos Aneis:
+
 Legolas
 Gandalf
 Sauron
 Aragorn
 Balrog
 Gollum
+
+O hobbit:
 
 Thorin
 Bilbo Baggins
